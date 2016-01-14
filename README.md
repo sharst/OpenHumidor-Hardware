@@ -5,6 +5,8 @@ Copyright 2016 Simon Harst
 
 These files are licenced under the GPL v3 Licence, see LICENCE file.
 
+![The sensor PCB](https://github.com/sharst/OpenHumidor/blob/master/wiki_images/OH-sensor.jpg)
+
 I have included former versions of the PCB in separate folders. 
 
 Versions 2 and 3 were created using the free version of EAGLE. Since version 4, boards are created with KICAD. 
