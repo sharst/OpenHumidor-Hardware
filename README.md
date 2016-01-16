@@ -1,5 +1,6 @@
-# OpenHumidor-Kicad
+# OpenHumidor-Hardware
 KiCad files of the OpenHumidor sensor PCB.
+Files for moisturizer metal parts, enclosure of the sensor board, etc.
 
 Copyright 2016 Simon Harst
 
