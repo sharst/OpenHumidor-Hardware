@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name arduino)(type Legacy)(uri "$(KIPRJMOD)/libraries/arduino.mod")(options "")(descr ""))
+  (lib (name w_conn_jst-ph)(type Legacy)(uri "$(KIPRJMOD)/libraries/w_conn_jst-ph.mod")(options "")(descr ""))
+  (lib (name w_conn_misc)(type Legacy)(uri "$(KIPRJMOD)/libraries/w_conn_misc.mod")(options "")(descr ""))
+  (lib (name ownprints)(type KiCad)(uri "$(KIPRJMOD)/libraries/testprints.pretty")(options "")(descr ""))
+)
