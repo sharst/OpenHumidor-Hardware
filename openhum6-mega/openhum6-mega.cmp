@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb 0.201503230816+5530~22~ubuntu14.04.1-product   date = Mi 02 Sep 2015 15:17:21 CEST
+
+BeginCmp
+TimeStamp = /55A89876;
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E71548;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A6135F;
+Reference = C3;
+ValeurCmp = 100uF;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A60C33;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BFFF8C;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = Connect:USB_Mini-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E70003;
+Reference = D1;
+ValeurCmp = LED RED;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A57FB5;
+Reference = D3;
+ValeurCmp = LED GREEN;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE7E82;
+Reference = IC1;
+ValeurCmp = ATTINY84A-SS;
+IdModule  = Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE5D55;
+Reference = IC2;
+ValeurCmp = DHT22;
+IdModule  = ownprints:DHT22;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A5EFF2;
+Reference = P1;
+ValeurCmp = ICSP;
+IdModule  = ownprints:2x3_pin_header;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BEB026;
+Reference = P2;
+ValeurCmp = BATTERY;
+IdModule  = ownprints:solderpad2x;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A59468;
+Reference = P3;
+ValeurCmp = UART;
+IdModule  = w_conn_jst-ph:s3b-ph-kl;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A58A35;
+Reference = P4;
+ValeurCmp = MOIST;
+IdModule  = w_conn_jst-ph:s3b-ph-kl;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE8E71;
+Reference = P5;
+ValeurCmp = FAN;
+IdModule  = w_conn_jst-ph:s2b-ph-kl;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A5899A;
+Reference = Q1;
+ValeurCmp = Q_NPN_BEC;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A580FB;
+Reference = Q2;
+ValeurCmp = Q_NPN_BEC;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6FF19;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E7047C;
+Reference = R2;
+ValeurCmp = 2k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A5800C;
+Reference = R6;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE3466;
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55A5FDBB;
+Reference = U1;
+ValeurCmp = MCP1700;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6F475;
+Reference = U2;
+ValeurCmp = MCP73831;
+IdModule  = ownprints:SOT-23-5_handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BE50AD;
+Reference = U3;
+ValeurCmp = nRF24L01+;
+IdModule  = ownprints:nrf24l01_mini;
+EndCmp
+
+EndListe
