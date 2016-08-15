@@ -1,12 +1,12 @@
 # OpenHumidor-Hardware
 KiCad files of the OpenHumidor sensor PCB.
-Files for moisturizer metal parts, enclosure of the sensor board, etc.
+Files for 3D-printed humidifier parts, enclosures of the sensor board, etc.
 
 Copyright 2016 Simon Harst
 
 These files are licenced under the GPL v3 Licence, see LICENCE file.
 
-![The sensor PCB](https://github.com/sharst/OpenHumidor/blob/master/wiki_images/OH-sensor.jpg)
+![The sensor PCB](https://github.com/sharst/OpenHumidor/blob/master/wiki_images/board_v06.jpg)
 
 I have included former versions of the PCB in separate folders. 
 
