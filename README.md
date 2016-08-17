@@ -13,7 +13,7 @@ I have included former versions of the PCB in separate folders.
 Versions 2 and 3 were created using the free version of EAGLE. Since version 4, boards are created with KICAD. 
 
 ## Ordering PCBs
-Attention! The current tested version is v4. It is running well but it needs some tweaks (see red wires in photo above). If you are interested in this project, contact me or follow the updates this site. I have ordered version 5 which fixes those bugs and it should arrive in a few weeks' time. 
+The current version of the board is v0.6-mega. I'm currently testing all functions but minor bugs might still occur. If you're interested in trying out this project, you should consider contacting me.
 
 So far, I have only ordered with two companies: 
 * [PCB-pool](www.pcb-pool.de), located in Germany, the cheapest option takes about 2 weeks incl. shipping, you can directly upload the .kicad_pcb-file. 
